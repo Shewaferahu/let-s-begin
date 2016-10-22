@@ -5,7 +5,7 @@
 <title>Name to be inserted</title>
 </head>
 <body>
-<h1>heading to be insered</h1>
+<h1>heading to be inserted</h1>
 
 
 </body>
